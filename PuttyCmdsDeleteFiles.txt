@@ -1,0 +1,9 @@
+rm -rf *.txt
+
+rm -rf *.jar
+
+hdfs dfs -rm -r /user/khadoop
+
+hdfs dfs -rm -r /user/ktest
+
+exit

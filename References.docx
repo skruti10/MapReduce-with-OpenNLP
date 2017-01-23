@@ -1,0 +1,16 @@
+References: used in implementing the projects :
+
+1.	https://www.tutorialspoint.com/tika/tika_extracting_text_document.htm
+2.	https://github.com/CrossRef/rest-api-doc/blob/master/rest_api.md
+3.	http://www.codingpedia.org/ama/reading-parsing-rss-and-atom-feeds-with-rome/
+4.	http://arxiv.org/help/api/index
+5.	http://search.maven.org/#artifactdetails%7Ccom.rometools%7Crome%7C1.5.1%7Cjar
+6.	http://stackoverflow.com/questions/5887709/getting-random-numbers-in-java
+7.	http://stackoverflow.com/questions/3634853/how-to-create-a-directory-in-java
+8.	http://stackoverflow.com/questions/35542836/apache-tika-maxstringlength-reached
+9.	http://www.programcreek.com/2012/05/opennlp-tutorial/
+10.	https://mvnrepository.com/artifact/org.apache.opennlp/opennlp-tools/1.6.0
+11.	http://self-learning-java-tutorial.blogspot.com/2015/10/setting-up-opennlp-command-line.html
+12.	https://dzone.com/articles/java-how-save-download-file
+13.	http://www.speakingcs.com/2015/01/java-program-to-download-file-from.html
+14.	http://stackoverflow.com/questions/15968883/how-to-zip-a-folder-itself-using-java

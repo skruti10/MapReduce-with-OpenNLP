@@ -1,0 +1,2 @@
+hdfs dfs -put *.txt /user/khadoop/khw2/kinput
+

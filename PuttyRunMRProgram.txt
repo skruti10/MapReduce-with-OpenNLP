@@ -1,0 +1,1 @@
+hadoop jar MapReduceParse.jar /user/khadoop/khw2/kinput /user/khadoop/khw2/koutput

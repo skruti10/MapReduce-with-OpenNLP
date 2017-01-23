@@ -1,0 +1,59 @@
+re-
+pare the condensate on the negative scattering length
+side of the resonance, the field was stepped up to 913 G
+as quickly as possible (? 1 µs) to jump through the
+resonance with minimal atom loss. The field was then
+ramped back down to 903 G in 50 µs to form molecules.
+In order to remove non-paired atoms from the trap, the
+sample was irradiated with a 20 µs pulse of resonant light.
+Because 903 G is far from the Feshbach resonance, the
+mixing between atomic and molecular states was small,
+and therefore molecules were transparent to this “blast”
+pulse. By ramping the field back to 913 G molecules were
+converted back to atoms. Absorption images were taken
+at high fields (either at 903 G or 913 G) after 10 to 17 ms
+ballistic expansion, with the imaging light incident along
+the axial direction of the condensate.
+
+To study the momentum distribution of the back-
+converted atoms, the magnetic field was ramped up im-
+mediately after turning off the optical trap, or for a refer-
+ence, at the end of the ballistic expansion. The difference
+between the energies of ballistic expansion is the he width of the Feshbach resonance as a free pa-
+rameter to obtain a fitted value of ?B = 1.07 ± 0.02 G
+(dotted line in Fig. 2). Compared to previous mean-field
+measurements [15, 22], our determination of the reso-
+nance width is more accurate and free from systematic
+errors associated with the determination of ats, 1093280
+
+(2003).
+[12] J. J. Hudson et al., Phys. Rev. Lett. 89, 23003 (2002).
+[13] M. Baranov et al., cond-mat/0201100 (2002).
+[14] D. J. Heinzen et al., Phys. Rev. Lett. 84, 5029 (2000).
+[15] S. Inouye et al., Nature (London) 392, 151 (1998).
+[16] F. A. van Abeelen, and B. J. Verhaar, Phys. Rev. Lett.
+
+83, 1550 (1999).
+
+
+
+
+
+
+
+
+5
+
+[17] E. P. Wigner, Phys. Rev. 73, 1002 (1948).
+[18] F. H. Mies et al., Phys. Rev. A 61, 022721 (2000).
+[19] E. Timmermans et al., Phys. Rep., 315, 199 (1999).
+[20] V. A. Yurovsky and A. Ben-Reuven, Phys. Rev. A 67,
+
+043611 (2003).
+
+[21] V. A. Yurovsky, A. Ben-Reuven et al., Phys. Rev. A 62,
+043605 (2000).
+
+[22] J. Stenger et al., Phys. Rev. Lett. 82, 2422 (1999).
+
+

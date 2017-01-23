@@ -1,0 +1,11 @@
+su hdfs
+
+hdfs dfs -chmod 777 /user
+
+hdfs dfs -mkdir /user/khadoop
+
+hdfs dfs -mkdir /user/khadoop/khw2
+
+hdfs dfs -mkdir /user/khadoop/khw2/kinput
+
+exit

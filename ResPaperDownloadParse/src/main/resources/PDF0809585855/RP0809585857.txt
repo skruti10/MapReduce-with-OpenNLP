@@ -1,0 +1,170 @@
+The
+selected kS is about 2.0 and kL is between 3.0 and
+6.0. According to a large number of previous simula-
+tions [8,14–16,24], the selecarship.
+(Correspondent address: zhou@pe.titech.ac.jp).
+
+[1] J. V. Haaren, Nature (London) 411, 29 (2001).
+[2] P. Chaudhari, et al, Nature (London) 411, 56 (2001).
+[3] M. I. Boamfa, M. W. Klm, J. C. Maan, and Th. Rasing,
+
+Nature (London) 421, 149 (2003).
+[4] H. Nakanishi and M. E. Fisher, Phys. Rev. Lett. 49,1565
+
+(1982).
+[5] Daniel Bonn and David Ross, Rep. Prog. Phys. 64, 1085
+
+(2001).
+[6] T. Gruhn and M. Schoen, Phys. Rev. E 55, 2861 (1997).
+[7] T. Gruhn and M. Schoen, J. Chem. Phys. 108, 9124
+
+(1998).
+[8] X. Zhou, H. Chen, and M. Iwamoto, submitted (2003) or
+
+preprint: cond-mat 0305247.
+[9] C. Chiccoli, P. Pasini, G. Skacej, C. Zannoni, and S.
+
+Zumer, Phys. Rev. E 65, 051703 (2002).
+[10] J. R. McColl, J. Chem. Phys. 62, 1593 (1975).
+[11] A. Dubault, C. Casagrande, and M. Veyssie?, Phys. Rev.
+
+Lett. 45, 1645 (1980).
+[12] G. Sigaud, et al., Phys. Rev. A 33, 789 (1986).
+[13] F. Roussel, and B. M. Fung, Phys. Rev. E 67, 041709
+
+(2003).
+[14] E. D. Miguel, and E. M. D. Rio, J. Chem. Phys. 118,
+
+1852 (2003).
+[15] E. D. Miguel, and E. M. D. Rio, J. Chem. Phys. 115,
+
+9072 (2001).
+[16] P. Padilla, and E. Velasco, J. Chem. Phys. 106, 10299
+
+(1997).
+[17] M. Dijkstra, R. V. Roij, and R. Evans, Phys. Rev. E 63,
+
+051703 (2001).
+[18] S. C. McGrother, D. C. Williamson, and G. Jackson, J.
+
+Chem. Phys. 104, 6755 (1996).
+[19] J. A. C. Veerman and D. Frenkel, Phys. Rev. A 41, 3237
+
+(1990).
+[20] Venkat, R. bhethanabotla and W. Steele, Mol. Phys. 60,
+
+249 (1987).
+[21] E. D. Miguel, Mol. Phys. 100, 2449 (2002).
+[22] E. D. Miguel, and C. Vega, J. Chem. Phys. 117, 6313
+
+(2002).
+[23] J. G. Gay, and B. J. Berne, J. Chem. Phys. 74, 3316 -
+
+3319 (1981).
+[24] M. Rigby, Molecular Physics, 68, 687 (1989).
+[25] H. Lange, and F. Schmid, J. Chem. Phys. 117, 362
+
+(2002).
+[26] B. J. Berne and P. Pechukas, J. Chem. Phys. 56, 4213
+
+(1972).
+
+4
+
+
+
+0 5 10 15
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+(b)
+
+s
+
+pressure
+
+0
+
+5
+
+10
+
+15
+
+0.1 0.2 0.3 0.4 0.5 0.6
+
+(a)
+
+Fig.1 X. Zhou et al. kS = 2.0 and kL = 5.0,  10^5 MC
+
+density
+
+pr
+es
+
+su
+re
+
+ 0/256
+ 25/500
+ 50/500
+ 100/500
+ 150/500
+ 200/500
+ 250/500
+ 500/500
+
+FIG. 1. (a) The Equation of state (pressure versus den-
+sity) of binary mixtures with two kinds of HGO molecules.
+Their molecular elongation k are 5.0 and 2.0, respectively.
+The data in label correspond to NL/N of each curves. For
+NL = 0, we select N = 256. (b) The Orientation order pa-
+rameter S versus pressure of the mixtures. All parameters
+and symbols are same as that in Fig. 1. It is clearly shown
+an Isotropic-nematic phase transition except in small x cases.
+However, except a trivial case (x = 500/500 = 1.0), in ne-
+matic phase, the order parameter S of the mixture does not
+arrive at unit.
+
+1 2 3 4
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Fig.2 X. Zhou et al,kS=2.2 and kL=5.0, x=200/500
+
+S
+
+pressure
+
+ S of all molecules
+ S of large molecules
+ S of small molecules
+
+FIG. 2. Orientation order parameters of large, small and
+all molecules versus pressure P in a mixtures. Where
+x = 200/500, kS = 2.2 and kL = 5.0.
+
+FIG. 3. Orientation order parameters of large and small
+molecules versus pressure in mixtures with different kS/kL
+for detecting the elongational dependence of the ordering pa-
+rameters. For systems with kL = 3.0, NL/N = 101/256; for
+other systems, NL/N = 200/500. The symbols of (b) are
+same as that of (a) and the symbols of (c) are same as that of
+(d). (a) Orien

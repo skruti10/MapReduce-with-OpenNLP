@@ -1,0 +1,9 @@
+hdfs dfs -mkdir /user/ktest
+
+hdfs dfs -put RP0809585857.txt /user/ktest
+
+hdfs dfs -put RP0809585874.txt /user/ktest
+
+hadoop jar MapReduceParse.jar /user/ktest /user/ktest/koutput
+
+hadoop fs -text /user/ktest/koutput/part-r-00000
